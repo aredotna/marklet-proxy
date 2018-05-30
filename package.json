@@ -1,0 +1,16 @@
+{
+  "name": "marklet.are.na",
+  "version": "1.0.0",
+  "description": "Proxy for an awkward legacy decision",
+  "main": "index.js",
+  "author": "dzucconi <mail@damonzucconi.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "request": "^2.87.0",
+    "throng": "^4.0.0"
+  }
+}
